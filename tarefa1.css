@@ -1,0 +1,21 @@
+.container-fluid{
+    border: 5px solid green;
+    background-color: #c0c0c0;
+}
+
+.col{
+    border: 2px solid red;
+}
+
+.row{
+    padding: 10px;
+    height: 100px;
+}
+
+.blue{
+    background-color: cyan;
+}
+
+.purple{
+    background-color: blueviolet;
+}
