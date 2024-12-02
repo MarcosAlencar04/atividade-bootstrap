@@ -1,0 +1,36 @@
+.col-12{
+    padding: 10px;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-12 i{
+    font-size: 30px;
+    margin-right: 15px;
+}
+
+.check{
+    border: 2px solid green;
+}
+
+.check i{
+    color: green;
+}
+
+.message{
+    border: 2px solid blue;
+}
+
+.message i{
+    color: blue;
+}
+
+.warning{
+    border: 2px solid red;
+}
+
+.warning i{
+    color: red;
+}
